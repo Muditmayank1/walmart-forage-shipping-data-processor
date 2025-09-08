@@ -327,7 +327,7 @@ def main():
     MYSQL_HOST = 'localhost'
     MYSQL_PORT = 3306
     MYSQL_USER = 'root'
-    MYSQL_PASSWORD = 'mmm1204'  # Update with your MySQL password
+    MYSQL_PASSWORD = 'MySQL password'# Update with your MySQL password
     MYSQL_DATABASE = 'shipping_db'  # Update with your database name
     
     # File paths
@@ -387,3 +387,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
