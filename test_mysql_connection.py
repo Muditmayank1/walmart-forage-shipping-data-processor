@@ -13,7 +13,7 @@ def test_mysql_connection():
     MYSQL_HOST = 'localhost'
     MYSQL_PORT = 3306
     MYSQL_USER = 'root'
-    MYSQL_PASSWORD = 'mmm1204'  # Update with your MySQL password
+    MYSQL_PASSWORD = 'MySQL password'  # Update with your MySQL password
     MYSQL_DATABASE = 'shipping_db'  # Update with your database name
     
     try:
@@ -108,3 +108,4 @@ def test_mysql_connection():
 if __name__ == "__main__":
     success = test_mysql_connection()
     sys.exit(0 if success else 1)
+
