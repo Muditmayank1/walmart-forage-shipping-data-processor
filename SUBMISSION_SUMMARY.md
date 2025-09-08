@@ -16,7 +16,7 @@ Successfully modified the shipping data processing script to use MySQL instead o
    - Host: localhost
    - Port: 3306
    - User: root
-   - Password: mmm1204 (as provided in registration form)
+   - Password: (as provided in registration form)
    - Database: shipping_db
 
 3. **Database Schema**:
@@ -69,3 +69,4 @@ The **populate_database_submission.pdf** file contains the complete Python scrip
 *Task completed on: September 8, 2025*
 *Database: MySQL*
 *Total processing time: < 1 second*
+
